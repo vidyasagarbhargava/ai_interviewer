@@ -2,4 +2,9 @@
 name = "ai_interviewer"
 version = "0.1.0"
 requires-python = ">= 3.13.1"
-dependencies = []
+dependencies = [
+    "datetime>=5.5",
+    "pandas>=2.3.0",
+    "requests>=2.32.4",
+    "streamlit>=1.46.1",
+]
